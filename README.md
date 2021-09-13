@@ -6,9 +6,9 @@ Loja simples em React ou React Native, com um catálogo de produtos e um carrinh
 
 ## Screenshots
 
-![Home](screenshots/home.png "Home")
-![Select Item](screenshots/select-item.png "Add Training")
-![Finish](screenshots/finish.png "events")
+![Home](screenshots/home.PNG "Home")
+![Select Item](screenshots/select-item.PNG "Add Training")
+![Finish](screenshots/finish.PNG "events")
 
 ## Bibliotecas utilizadas
 
