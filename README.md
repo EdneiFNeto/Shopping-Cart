@@ -1,14 +1,13 @@
 # Shopping Cart - App
 
-# Introdução
-
-Loja simples em React ou React Native, com um catálogo de produtos e um carrinho de compras. O usuário deve poder adicionar/remover produtos do catálogo no carrinho de compras.
+Loja simples em React Native (Typescript), com um catálogo de produtos e um carrinho de compras. O usuário escolhe o item adicionar/remover produtos do catálogo no carrinho de compras.
 
 ## Screenshots
 
 ![Home](screenshots/home.PNG "Home")
-![Select Item](screenshots/select-item.PNG "Add Training")
-![Finish](screenshots/finish.PNG "events")
+![Shopping-cart](screenshots/shopping-cart.png "Shopping-cart")
+![Select Item](screenshots/select-item.PNG "Select Item")
+![Finish](screenshots/finish.PNG "Finish")
 
 ## Bibliotecas utilizadas
 
